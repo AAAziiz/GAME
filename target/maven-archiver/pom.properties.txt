@@ -1,0 +1,3 @@
+artifactId=game-hello-world
+groupId=net.thevpc.gaming.atom.examples
+version=1.0.0
